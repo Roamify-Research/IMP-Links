@@ -11,4 +11,4 @@
 
 5. [ACM CHI 2025: Papers Review Process](https://chi2025.acm.org/papers-review-process/) - Information about the review process for papers submitted to the ACM CHI 2025 Conference.
 
-6. [arXiv Paper: 2401.11314](https://arxiv.org/abs/2401.11314) - A research paper available on arXiv with the identifier 2401.11314.
+6. [arXiv Paper: 2401.11314](https://arxiv.org/abs/2401.11314) - A research paper available on arXiv with the identifier 2401.11314 which Dhruv Kumar sir has sent.
