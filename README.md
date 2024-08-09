@@ -13,4 +13,8 @@
 
 6. [ACM CHI 2025: Student Research Competition](https://chi2025.acm.org/for-authors/student-research-competition/) - Information about the Student Research Competition for the ACM CHI 2025 Conference.
 
-7. [arXiv Paper: 2401.11314](https://arxiv.org/abs/2401.11314) -A research paper available on arXiv with the identifier 2401.11314 which Dhruv Kumar sir has sent.
+7. [ACM TAPS Production Workflow](https://authors.acm.org/proceedings/production-information/taps-production-workflow) - Information on the TAPS production workflow for ACM proceedings.
+
+8. [SIGCHI Accessibility Guide for Authors](https://sigchi.org/resources/guides-for-authors/accessibility/) - A guide for authors on making their submissions accessible, provided by SIGCHI.
+
+9. [arXiv Paper: 2401.11314](https://arxiv.org/abs/2401.11314) -A research paper available on arXiv with the identifier 2401.11314 which Dhruv Kumar sir has sent.
