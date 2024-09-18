@@ -21,4 +21,4 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-9. [Guidelines and Criteria for Evaluation of Submissions for ACM Publications]([https://arxiv.org/abs/2401.11314](https://www.acm.org/publications/policies/pre-publication-evaluation)) - This document gives policy guidelines for the evaluation of material for ACM publication. The audience is both editors-in-chief and potential authors.
+9. [Guidelines and Criteria for Evaluation of Submissions for ACM Publications](https://www.acm.org/publications/policies/pre-publication-evaluation) - This document gives policy guidelines for the evaluation of material for ACM publication. The audience is both editors-in-chief and potential authors.
