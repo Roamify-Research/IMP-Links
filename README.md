@@ -17,4 +17,8 @@
 
 8. [SIGCHI Accessibility Guide for Authors](https://sigchi.org/resources/guides-for-authors/accessibility/) - A guide for authors on making their submissions accessible, provided by SIGCHI.
 
-9. [arXiv Paper: 2401.11314](https://arxiv.org/abs/2401.11314) -A research paper available on arXiv with the identifier 2401.11314 which Dhruv Kumar sir has sent.
+9. [arXiv Paper: 2401.11314](https://arxiv.org/abs/2401.11314) - A research paper available on arXiv with the identifier 2401.11314 which Dhruv Kumar sir has sent.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+9. [Guidelines and Criteria for Evaluation of Submissions for ACM Publications]([https://arxiv.org/abs/2401.11314](https://www.acm.org/publications/policies/pre-publication-evaluation)) - This document gives policy guidelines for the evaluation of material for ACM publication. The audience is both editors-in-chief and potential authors.
