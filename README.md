@@ -19,6 +19,8 @@
 
 9. [arXiv Paper: 2401.11314](https://arxiv.org/abs/2401.11314) - A research paper available on arXiv with the identifier 2401.11314 which Dhruv Kumar sir has sent.
 
+10. [UIST 2025 Conference](https://uist.acm.org/2025/) - Official website for the ACM UIST 2025 Conference.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-9. [Guidelines and Criteria for Evaluation of Submissions for ACM Publications](https://www.acm.org/publications/policies/pre-publication-evaluation) - This document gives policy guidelines for the evaluation of material for ACM publication. The audience is both editors-in-chief and potential authors.
+11. [Guidelines and Criteria for Evaluation of Submissions for ACM Publications](https://www.acm.org/publications/policies/pre-publication-evaluation) - This document gives policy guidelines for the evaluation of material for ACM publication. The audience is both editors-in-chief and potential authors.
